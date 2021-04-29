@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**yhwong0/yhwong0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**yhwong0/yhwong0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning in Github
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 21800000
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like playing basketball
--->
+
